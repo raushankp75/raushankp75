@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=raushankp75)
 
-- 🔭 I’m currently working on Fido PVT LTD Project
+- 🔭 I’m currently working as MERN Stack Developer at Code Bucket Solutions Pvt Ltd
 - 🌱 I’m currently learning ReactJS , NodeJS , MongoDB , Tailwind CSS
 - 📫 Contact me on: raushankp75@gmail.com or tell me something on [whatsapp](https://wa.me/7079907765)
 
