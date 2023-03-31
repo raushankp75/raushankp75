@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Raushan Kumar 😄 . Finding a job opportunity </h1>
+<h1 align="center">Hi, I'm Raushan Kumar. MERN Stack Developer </h1>
 
 ![](https://komarev.com/ghpvc/?username=raushankp75)
 
@@ -8,16 +8,13 @@
 - 📫 Contact me on: raushankp75@gmail.com or tell me something on [whatsapp](https://wa.me/7079907765)
 
 
-<a href="https://app.daily.dev/raushankp75"><img src="?r=rxs" width="400" alt="Raushan Kumar's Dev Card"/></a>
-
-
 [![Raushan's GitHub stats](https://github-readme-stats-j05el383g.vercel.app/api?username=raushankp75&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/raushankp75/raushankp75/blob/master/readme.md)
 
 [![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushankp75&show_icons=true&theme=dark)](https://github.com/raushankp75/raushankp75/blob/master/readme.md)
 
 ![](https://komarev.com/ghpvc/?username=raushankp75)
 
-[![Raushan's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=raushankp75)](https://github.com/raushankp75/readme.md)
+<!-- [![Raushan's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=raushankp75)](https://github.com/raushankp75/readme.md) -->
 
 
 
