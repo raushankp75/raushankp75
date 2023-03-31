@@ -8,7 +8,7 @@
 - 📫 Contact me on: raushankp75@gmail.com or tell me something on [whatsapp](https://wa.me/7079907765)
 
 
-<a href="https://app.daily.dev/raushankp75"><img src="https://api.daily.dev/devcards/2e44cbe8d05c4b0499f77edf9c4daf9b.png?r=rxs" width="400" alt="Raushan Kumar's Dev Card"/></a>
+<a href="https://app.daily.dev/raushankp75"><img src="?r=rxs" width="400" alt="Raushan Kumar's Dev Card"/></a>
 
 
 [![Raushan's GitHub stats](https://github-readme-stats-j05el383g.vercel.app/api?username=raushankp75&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/raushankp75/raushankp75/blob/master/readme.md)
