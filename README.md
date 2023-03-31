@@ -10,26 +10,9 @@
 
 [![Raushan's GitHub stats](https://github-readme-stats-j05el383g.vercel.app/api?username=raushankp75&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/raushankp75/raushankp75/blob/master/readme.md)
 
-[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushankp75&show_icons=true&theme=dark)](https://github.com/raushankp75/raushankp75/blob/master/readme.md)
+![Raushan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raushankp75&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
-![](https://komarev.com/ghpvc/?username=raushankp75)
-
-<!-- [![Raushan's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=raushankp75)](https://github.com/raushankp75/readme.md) -->
-
-
-
-<!-- ![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raushankp75&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
- -->
-
-<!-- 
-![Raushan Kumar Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushankp75&layout=compact&theme=tokyonight)
-
-![Raushan Kumar GitHub Stats](https://github-readme-stats.vercel.app/api?username=raushankp75&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
-
-![Raushan Kumar GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raushankp75&theme=radical&date_format=M%20j%5B%2C%20Y%5D) -->
-
-
-
+[![Raushan's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushankp75&show_icons=true&theme=dark)](https://github.com/raushankp75/raushankp75/blob/master/readme.md)
 
 
 
