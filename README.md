@@ -8,16 +8,16 @@
 - 📫 Contact me on: raushankp75@gmail.com or tell me something on [whatsapp](https://wa.me/7079907765)
 
 
-<a href="https://app.daily.dev/nishant666"><img src="https://api.daily.dev/devcards/2e44cbe8d05c4b0499f77edf9c4daf9b.png?r=rxs" width="400" alt="Nishant Kumar's Dev Card"/></a>
+<a href="https://app.daily.dev/raushankp75"><img src="https://api.daily.dev/devcards/2e44cbe8d05c4b0499f77edf9c4daf9b.png?r=rxs" width="400" alt="Raushan Kumar's Dev Card"/></a>
 
 
-[![Nishant's GitHub stats](https://github-readme-stats-j05el383g.vercel.app/api?username=nishant-666&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/nishant-666/nishant-666/blob/master/readme.md)
+[![Raushan's GitHub stats](https://github-readme-stats-j05el383g.vercel.app/api?username=raushankp75&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/raushankp75/raushankp75/blob/master/readme.md)
 
-[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-666&show_icons=true&theme=dark)](https://github.com/nishant-666/nishant-666/blob/master/readme.md)
+[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushankp75&show_icons=true&theme=dark)](https://github.com/raushankp75/raushankp75/blob/master/readme.md)
 
-![](https://komarev.com/ghpvc/?username=nishant-666)
+![](https://komarev.com/ghpvc/?username=raushankp75)
 
-[![Nishant's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=nishant-666)](https://github.com/nishant-666/readme.md)
+[![Raushan's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=raushankp75)](https://github.com/raushankp75/readme.md)
 
 
 
