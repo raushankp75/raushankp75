@@ -7,6 +7,9 @@
 - 🌱 I’m currently learning ReactJS , NodeJS , MongoDB , Tailwind CSS
 - 📫 Contact me on: raushankp75@gmail.com or tell me something on [whatsapp](https://wa.me/7079907765)
 
+![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeevrk9901&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
+
+
 <!-- 
 ![Raushan Kumar Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushankp75&layout=compact&theme=tokyonight)
 
