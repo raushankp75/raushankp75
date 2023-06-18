@@ -8,9 +8,9 @@
 - 📫 Contact me on: raushankp75@gmail.com or tell me something on [whatsapp](https://wa.me/7079907765)
 
 
-[![Raushan's GitHub stats](https://github-readme-stats-j05el383g.vercel.app/api?username=raushankp75&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/raushankp75/raushankp75/blob/master/readme.md)
+<!-- [![Raushan's GitHub stats](https://github-readme-stats-j05el383g.vercel.app/api?username=raushankp75&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/raushankp75/raushankp75/blob/master/readme.md)
 
-![Raushan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raushankp75&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+![Raushan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raushankp75&theme=dark&date_format=M%20j%5B%2C%20Y%5D) -->
 
 [![Raushan's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushankp75&show_icons=true&theme=dark)](https://github.com/raushankp75/raushankp75/blob/master/readme.md)
 
